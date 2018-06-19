@@ -1,4 +1,4 @@
-package fr.FootInfo.services;
+package fr.FootInfo.servlets;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
